@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Urban Hiker Pack",
+        "description": "The Urban Hiker Pack holds everything you need in for your next adventure.",
+        "variations": [
+            {
+                "name": "Black",
+                "quantity": 8,
+                "price": 80,
+                "sold": 5
+            },{
+                "name": "Colonial Blue",
+                "price": 80,
+                "quantity": 3,
+                "sold": 2
+            }
+        ],
+        "features": [
+            "Backpack converts to carry case",
+            "Stowable shoulder straps",
+            "Clamshell opening",
+            "Front and back access to main compartment",
+            "8 interior accessory pockets",
+            "Load lifters and removable sternum strap",
+            "ID window",
+            "Protective laptop sleeve"
+        ],
+        "tags": [
+            "backpacks", "day packs"
+        ],
+        "reviews": []
+    },{
+        "name": "Module Day Pack",
+        "description": "The perfect office to adventure bag for the electronic junkie.",
+        "variations": [
+            {
+                "name": "Midnight Black",
+                "type": "Color",
+                "price": 56,
+                "quantity": 8,
+                "sold": 5
+            }
+        ],
+        "features": [
+            "Two large compartments",
+            "Laptop pocket",
+            "Tablet pocket",
+            "Front pocket with organizer",
+            "Soft lined accessory pocket",
+            "Side zippered pockets with mesh pouches",
+            "Adjustable sternum strap"
+        ],
+        "tags": [
+            "backpacks", "day packs"
+        ],
+        "reviews": []
+    },{
+        "name": "Eastsport",
+        "description": "Eastsport Spacious Cargo Backpack",
+        "variations": [
+            {
+                "name": "Army Camo",
+                "type": "Color",
+                "price": 22.75,
+                "quantity": 10,
+                "sold": 6
+            },{
+                "name": "Black",
+                "type": "Color",
+                "price": 24.98,
+                "quantity": 15,
+                "sold": 8
+            },{
+                "name": "Gray",
+                "type": "Color",
+                "price": 23.89,
+                "quantity": 5,
+                "sold": 2
+            }
+        ],
+        "features": [
+            "Multiple Zipper Compartments",
+            "Internal Padded Tech - Laptop Storage",
+            "Adjustable Shoulder Straps and Padded Back",
+            "Top Handle for Comfort",
+            "Side Hydration Pockets",
+            "Padded Texture Bottom and Padded Back",
+            "Military-Inspired Webbing Grid for Easy Lashing"
+        ],
+        "tags": [
+            "backpacks", "day packs"
+        ],
+        "reviews": []
+    },{
+        "name": "Yescom",
+        "description": "Outdoor 70L sports hiking, camping backpack.",
+        "variations": [{
+            "name": "Black",
+            "type": "Color",
+            "price": 42.98,
+            "quantity": 8,
+            "sold": 5
+        },{
+            "name": "Blue",
+            "type": "Color",
+            "price": 35.57,
+            "quantity": 10,
+            "sold": 3
+        },{
+            "name": "Red",
+            "type": "Color",
+            "price": 38.56,
+            "quantity": 4,
+            "sold": 2
+        }],
+        "features": [
+            "70L capacity - provides enough space to pack all the necessities and equipment",
+            "Large main compartment with side mesh pockets",
+            "Thick shoulder straps - reduce shoulder fatigue",
+            "Hip belt - alleviates pressure on the spine",
+            "600D Oxford fabric with PVC inner layer - durable and water-resistant",
+            "Ideal for mountaineering, hiking, camping, travel and other sport activites"
+        ],
+        "tags": [
+            "backpacks", "camping"
+        ],
+        "reviews": []
+    }
+]
